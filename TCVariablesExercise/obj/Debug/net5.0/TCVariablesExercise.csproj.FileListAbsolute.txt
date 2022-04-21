@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\TCVariablesExercise.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\TCVariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\TCVariablesExercise.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\TCVariablesExercise.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\TCVariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\bin\Debug\net5.0\TCVariablesExercise.exe
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\bin\Debug\net5.0\TCVariablesExercise.deps.json
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\bin\Debug\net5.0\TCVariablesExercise.runtimeconfig.json
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\bin\Debug\net5.0\TCVariablesExercise.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\bin\Debug\net5.0\TCVariablesExercise.dll
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\bin\Debug\net5.0\TCVariablesExercise.pdb
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\TCVariablesExercise.dll
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\refint\TCVariablesExercise.dll
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\TCVariablesExercise.pdb
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\TCVariablesExercise.genruntimeconfig.cache
+C:\Users\Terrence\Desktop\Repos\TCVariablesExercise\TCVariablesExercise\obj\Debug\net5.0\ref\TCVariablesExercise.dll
